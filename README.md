@@ -13,4 +13,4 @@ The objective of this course is to provide an introduction to statistical and ne
 - Weeks 11-12: Sequence-to-sequence transduction
   - Topics: Sequence-to-Sequence models based on RNNs and Transformers, Pointer networks and Pointer-generator networks.
 - Week 13: Transfer learning and unsupervised learning
-  - Topics: Pretrained contextualized embeddings (BERT, GPT), Clustering (KNN), Expectation Maximization based methods (if time allows)
+  - Topics: Pretrained contextualized embeddings (BERT, GPT), Clustering (KNN), Expectation Maximization based methods 
